@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.23.2",
+    "@babel/node": "^7.22.19",
+    "hardhat": "^2.18.1",
+    "type": "module"
+
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@openzeppelin/merkle-tree": "^1.0.5"
+  }
+}
